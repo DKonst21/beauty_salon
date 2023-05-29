@@ -125,6 +125,7 @@ STATIC_URL = 'static/'
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 # Настройки бота
-TOKEN = "6058652254:AAH_ztWwYLknDzhtdxysbPBxjyz0xOE4ngo"
+TELEGRAM_TOKEN="5270546430:AAGNCVmh3fo6HpfE98Za9Ts89hTtfOfOV6o"
+# TELEGRAM_TOKEN = "6058652254:AAH_ztWwYLknDzhtdxysbPBxjyz0xOE4ngo"
 
 PROXY_URL = 'https://telegg.ru/orig/bot'
